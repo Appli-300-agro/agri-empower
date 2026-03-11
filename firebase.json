@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "site": "agri-empower",
+    "site": "agri-empower-q9tff",
     "public": "dist",
     "ignore": [
       "firebase.json",
